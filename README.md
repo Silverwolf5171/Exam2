@@ -1,2 +1,2 @@
 # Exam2
-this the project made as the second exam in JS cours. buld up by tailwind graphic and typescreaript. 
+This is the project made as the second exam in JS course. build-up by tailwind graphic and typescript written by Amirreza Aalinezhad. 
